@@ -10,6 +10,11 @@
 # example
 example() {
   echo Example Function
+  echo value of x - $x
 }
 
+x=10
 example
+
+#Variables in functions
+ # In bash shell, if we declare a variable in main program,it is accessible inisde function and vice-versa
