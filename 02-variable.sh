@@ -9,3 +9,8 @@
  # access the variable
  # syntax: $var
  echo $a
+
+ # variable or functions naming.
+ # we can use characters a-z, A-Z
+ # we can use numbers and underscore
+
