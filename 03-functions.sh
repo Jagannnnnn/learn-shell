@@ -35,3 +35,10 @@ example2() {
 }
 
 example2 300
+
+# Input variables
+# script 100 200
+# $1 - 100
+# $2 - 200
+# $# - 2 (Number of arguments)
+# $* - 100 200 (All the arguments)
