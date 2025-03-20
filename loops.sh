@@ -2,9 +2,9 @@
 # while loop based on expression
 x=10
 
-while [$x -gt 0];do
+while [$x -gt 0 ]; do
   echo Hello
-  x=$(($x+1))
+  x=$(($x-1))
   done
 
 # for loop based on inputs
